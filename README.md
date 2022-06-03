@@ -1,4 +1,4 @@
-# Wheather Now 
+# Weather Now 
 
 ## Informações Gerais
 Este projeto é uma aplicação que a partir do consumo da API disponibilizada por Open Weather Map exibe a temperatura das respectivas cidades: Nuuk/GL, Urubici/BR e Nairobi/KE.
