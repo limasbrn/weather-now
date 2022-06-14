@@ -7,10 +7,10 @@ Este projeto é uma aplicação que a partir do consumo da API disponibilizada p
 
 ## Tecnologias utilizadas
 Este projeto foi criado com:
-* React Js;
-* Stiches;
-* React Query;
-* React testing library;
+* React Js ;
+* Stiches ;
+* React Query ;
+* React testing library ;
 
 	
 ## Setup
